@@ -1,0 +1,298 @@
+		#topbar{
+			width:1050px;
+			margin:0 auto;
+			height:40px;
+			
+		}
+		
+		body {
+			margin: 0;
+			padding: 0;
+			font-family:Helvetica, Arial, sans-serif;
+;
+		}
+		
+		#logo{
+			margin-top:8px;
+			float:left;
+			width:90px;
+			margin-right:5px;
+		}
+		
+		.topbar-section{
+			float:left;
+			border-left: 1px #CCCCCC solid;
+			height: 100%;
+			color:gray;
+		}
+		
+		
+		
+		#signin-image{
+			width:24px;
+			margin: 10px 15px;
+			float:left;
+		}
+		
+		#singin-text{
+			font-weight:bold;
+			font-size:80%;
+			position:relative;
+			top:14px;
+			left:-5px;
+			padding-right:72px;
+		}
+		
+		#wigglyline{
+			float:left;
+			height:40px;
+		}
+		
+		#bell{
+			height:30px;
+			margin: 8px 12px 0 7px;
+			float:left;
+		}
+		
+		.topbar-menu{
+			font-weight:bold;
+			font-size:85%;
+			padding:12px 15px 0 15px;
+			height:27px;
+			
+		}
+		
+		#more-arrow{
+			
+			margin-left:60px;
+		}
+		
+		#search-box{
+			background-color:#e4e4e4;
+			border:none;
+			font-weight:bold;
+			font-size:14px;
+			padding: 6px;
+			margin:5px 0 5px 8px;
+			float:left;
+		}
+		
+		#magnifying-glass{
+			height:28px;
+			margin-top:5px;
+			margin-left:0;
+			float:left;
+		}
+		
+		.clear{
+			clear:both;
+		}
+		
+		#menu-bar-container{
+			border-top: 1px #CCCCCC solid;
+			background-color:#bc181d;
+			width:100%;
+			height:70px;
+		}
+		
+		#menu-bar{
+			width:1050px;
+			margin:0 auto;
+
+		}
+		h1{
+			padding:0;
+			margin:0;
+			color:white;
+			font-size:40px;
+			font-weight:normal;
+			padding-top:10px;
+			float:left;
+		}
+		
+		#local-news{
+			float:right;
+			border:1px #BB4545 solid;
+			width:170px;
+			padding:5px 10px 0 5px;
+			margin:15px 10px 0 0 ;
+		}
+		
+		#local-news a{
+			color:white;
+			text-decoration:none;
+			font-size:20px;
+			position:relative;
+			top:-5px;
+			background-color:#bb1919;
+		}
+		
+		#local-news a:hover{
+			color:white;
+			text-decoration:underline;
+		}
+		
+		#local-news image{
+			height:20px;
+			position:relative;
+		}
+		
+		#menu-bar-2-container{
+			background-color:#a71717;
+			width:100%;
+			height:35px;
+		}
+		
+		#menu-bar-2{
+			width:1050px;
+			margin:0 auto;
+		}
+		
+		#menu-bar-2 a{
+			text-decoration:none;
+			color:white;
+			padding:0px 10px;
+			border-right: 1px solid #BB4545;
+			font-size:16px;
+			position:relative;
+			top:8px;
+		}
+		
+		#menu-bar-2 a:hover{
+			text-decoration:underline;
+		}
+		
+		.no-border{
+			border:none !important;
+		}
+		
+		#down-arrow{
+			height:12px;
+			position:relative;
+			top:2px;
+		}
+		
+		#page-container{
+			width:1050px;
+			margin:0 auto;
+			
+		}
+		
+		
+		#main-article{
+			
+		}
+		
+		h2{
+			font-weight:normal;
+			margin-top:10px;
+			font-size:20px;
+			border-bottom:3px #a91717 solid;
+			width:103px;
+			
+		}
+		
+		h3 a{
+			color:black;
+			font-size:35px;
+			text-decoration:none;
+			float:left;
+		}
+		
+		h3 a:hover{
+			color:#1167a8;
+		}
+		
+		#article-summary{
+			color:#5a5a5a;
+			width:270px;
+			float:left;
+			
+		}
+		
+		.clock{
+			height:15px;
+			position:relative;
+			top:2px;
+		}
+		
+		#topic-link{
+			text-decoration:none;
+			color:#a91717;
+			border-left:1px #CCCCCC solid;
+			padding-left:10px;
+		}
+		
+		#article-summary a:hover{
+			color:#1167a8;
+		}
+		
+		.date{
+			padding-right:10px;
+			color:#5a5a5a;
+		}
+		
+		#article-container{
+			float:left;
+			width:698px;
+			border-right:1px solid #CCCCCC;
+			border-bottom:1px solid #CCCCCC;
+			padding-bottom:14px;
+		}
+		
+		#main-article-image{
+			width:415px;
+			margin-left:0px;
+			margin-top:17px;
+		}
+		
+		#article-hr{
+			width:50px;
+			color:#a91717;
+			
+		}
+		
+		.article-link {
+			color:#5a5a5a;
+			text-decoration:none;
+		}
+		
+		#watch-listen{
+			margin-left:20px;
+			width:330px;
+			float:right;
+		}
+		
+		h4{
+			font-weight:normal;
+			font-size:24px;
+			
+		}
+		
+		.article-side-image{
+			float:left;
+			width:120px;
+			margin-right:8px;
+		}
+		
+		.watch-listen-link{
+			text-decoration:none;
+			color:black;
+			font-weight:bold;
+			font-size:17px;
+			
+		}
+		
+		.watch-listen-link:hover{
+			color:#1167a8;
+		}
+		
+		.side-article{
+			float:right;
+			width:200px;
+			position:relative;
+			top:-15px;
+			
+	
+		}
+		
